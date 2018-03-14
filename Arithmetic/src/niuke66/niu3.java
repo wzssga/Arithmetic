@@ -11,7 +11,7 @@ class ListNode {
 	}
 }
 
-public class niuke3 {
+public class niu3 {
 
 	public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
 		ArrayList<Integer> nodeList = new ArrayList<Integer>();
